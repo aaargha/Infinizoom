@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.5
+Date: 16. 08. 2020
+  Changes:
+    - Updated for Factorio version 1.0
+    - Moved the changelog to the proper format
+    - Removed the need for AutoHotkey (contribution from calcwizard on GitHub)
