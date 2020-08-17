@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.7
+Date: 17. 08. 2020
+  Changes:
+    - The in-game "reset zoom" feature (F9 for 1x, ctrl + F9 for 2x) applies to the mod as well
+    - Added limits to the zoom levels, turns out the engine kind of "breaks" if you push it far enough :(
+      Limits are 0.034336838202925 <= valid zoom levels <= 1061298.2223154
+
+  Bugfixes:
+    - Fixed "zoomed in map" to allow infinite zooming (unbind "Zoom out of world" to make use of)
+    - Fixed sudden jumps in zoom when going to/from map
+
+---------------------------------------------------------------------------------------------------
 Version: 0.1.6
 Date: 16. 08. 2020
   Bugfixes:
