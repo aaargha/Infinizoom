@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+Date: 19. 08. 2020
+  Changes:
+    - Brought back the old hotkeys, hooking to in-game zoom has too many edge-cases that needs ironing out
+      Reset zoom features still work
+
+---------------------------------------------------------------------------------------------------
 Version: 0.1.7
 Date: 17. 08. 2020
   Changes:
